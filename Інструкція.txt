@@ -1,9 +1,0 @@
-1. Створюється структура каталогів з command line за допомогою "lab3 batch folder 1.bat"
-
-2. Створюється структура каталогів з batch usage за допомогою "lab3 batch folder 2.bat"
-
-3. Створюється звіт про виконану роботу за посиланням C:\Projects UNI\lab3\Labs\PZ-23-2\Petryha Alina Oleksandrivna\Report.txt за допомогою "lab3 batch report create.bat"
-
-4. Застосовуючи "lab3 batch report.bat" виводиться цілий звіт текстовим файлом
-
-5. Індивідуальне завдання (варіант 22) виконано у "lab3 batch task.bat"
